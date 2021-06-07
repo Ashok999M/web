@@ -1,5 +1,5 @@
 # web
-"This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations."
+"This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for PUT operations."
 
 About JPDB:
 JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. 
